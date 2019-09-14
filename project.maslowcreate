@@ -3,8 +3,8 @@
         {
             "atomType": "Molecule",
             "name": "Body",
-            "x": 90,
-            "y": 62,
+            "x": 83,
+            "y": 68,
             "uniqueID": 380895,
             "ioValues": [],
             "topLevel": false,
@@ -65,8 +65,8 @@
         {
             "atomType": "Molecule",
             "name": "Legs",
-            "x": 111,
-            "y": 225,
+            "x": 80,
+            "y": 235,
             "uniqueID": 191109,
             "ioValues": [],
             "topLevel": false,
@@ -640,16 +640,16 @@
                 {
                     "atomType": "Molecule",
                     "name": "Body",
-                    "x": 90,
-                    "y": 62,
+                    "x": 83,
+                    "y": 68,
                     "uniqueID": 380895,
                     "ioValues": []
                 },
                 {
                     "atomType": "Molecule",
                     "name": "Legs",
-                    "x": 111,
-                    "y": 225,
+                    "x": 80,
+                    "y": 235,
                     "uniqueID": 191109,
                     "ioValues": []
                 },
@@ -680,6 +680,21 @@
                     "removeCutawayGeometry": true
                 },
                 {
+                    "atomType": "Add BOM Tag",
+                    "name": "Add BOM Tag",
+                    "x": 613,
+                    "y": 102,
+                    "uniqueID": 883181,
+                    "ioValues": [],
+                    "BOMitem": {
+                        "BOMitemName": "DRV7783",
+                        "numberNeeded": 1,
+                        "costUSD": 2.1,
+                        "source": "https://www.digikey.com/product-detail/en/texas-instruments/DRV8873HPWPR/296-53139-2-ND/9861442",
+                        "totalNeeded": 0
+                    }
+                },
+                {
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
@@ -702,8 +717,14 @@
                 },
                 {
                     "ap1Name": "geometry",
+                    "ap2Name": "geometry",
+                    "ap1ID": 100232,
+                    "ap2ID": 883181
+                },
+                {
+                    "ap1Name": "geometry",
                     "ap2Name": "number or geometry",
-                    "ap1ID": 100232
+                    "ap1ID": 883181
                 }
             ],
             "fileTypeVersion": 1

@@ -2,6 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|DRV7783|1|$2.10|https://www.digikey.com/product-detail/en/texas-instruments/DRV8873HPWPR/296-53139-2-ND/9861442|
+|Total: |1|$2.10| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $6.30
