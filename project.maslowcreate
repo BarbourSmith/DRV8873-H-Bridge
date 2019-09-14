@@ -353,6 +353,10 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 103482",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 335840",
                             "ioValue": 10
                         },
@@ -398,10 +402,6 @@
                         },
                         {
                             "name": "3D shape 839052",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 103482",
                             "ioValue": 10
                         }
                     ],
@@ -656,8 +656,8 @@
                 {
                     "atomType": "Assembly",
                     "name": "Assembly",
-                    "x": 298,
-                    "y": 143,
+                    "x": 312,
+                    "y": 132,
                     "uniqueID": 100232,
                     "ioValues": [
                         {
@@ -665,15 +665,15 @@
                             "ioValue": ""
                         },
                         {
+                            "name": "3D shape 592942",
+                            "ioValue": 10
+                        },
+                        {
                             "name": "3D shape 256449",
                             "ioValue": 10
                         },
                         {
                             "name": "3D shape 891541",
-                            "ioValue": 10
-                        },
-                        {
-                            "name": "3D shape 592942",
                             "ioValue": 10
                         }
                     ],
