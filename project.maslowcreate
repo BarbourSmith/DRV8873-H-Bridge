@@ -682,12 +682,12 @@
                 {
                     "atomType": "Add BOM Tag",
                     "name": "Add BOM Tag",
-                    "x": 613,
-                    "y": 102,
+                    "x": 650,
+                    "y": 84,
                     "uniqueID": 883181,
                     "ioValues": [],
                     "BOMitem": {
-                        "BOMitemName": "DRV7783",
+                        "BOMitemName": "DRV8873",
                         "numberNeeded": 1,
                         "costUSD": 2.1,
                         "source": "https://www.digikey.com/product-detail/en/texas-instruments/DRV8873HPWPR/296-53139-2-ND/9861442",
