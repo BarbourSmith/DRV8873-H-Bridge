@@ -43,7 +43,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -108,7 +108,7 @@
                     "y": 48,
                     "uniqueID": 503646,
                     "ioValues": [],
-                    "selectedColorIndex": "9"
+                    "selectedColorIndex": "10"
                 },
                 {
                     "atomType": "Translate",
@@ -453,7 +453,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
@@ -698,7 +698,7 @@
                     "atomType": "Output",
                     "name": "Output",
                     "x": 1316,
-                    "y": 164,
+                    "y": 163.5,
                     "ioValues": []
                 }
             ],
